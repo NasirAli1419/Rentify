@@ -1,0 +1,47 @@
+[{
+  "Id":1,
+  "Name":"Viks House",
+  "Type":"House",
+  "Price":12000,
+  "SellRent":0,
+  "Image":"house_1"
+},{
+  "Id":2,
+  "Name":"The Mansion",
+  "Type":"Mansion",
+  "Price":999999,
+  "SellRent":1,
+  "Image":"house_2"
+},
+{
+  "Id":3,
+  "Name":"Kiks House",
+  "Type":"House",
+  "Price":12000,
+  "SellRent":0,
+  "Image":"house_3"
+},{
+  "Id":4,
+  "Name":"The White House",
+  "Type":"Villa",
+  "Price":9999999,
+  "SellRent":1,
+  "Image":"house_4"
+},
+{
+    "Id":5,
+    "Name":"Kingdom Of Dreams",
+    "Type":"Mahal",
+    "Price":99999,
+    "SellRent":0,
+    "Image":"house_5"
+
+},{
+  "Id":6,
+  "Name":"Murat's House",
+  "Type":"Penthouse",
+  "Price":21374219,
+  "SellRent":1,
+  "Image":"house_6"
+}
+]
